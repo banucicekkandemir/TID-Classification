@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb 14 14:20:16 2022
-
-@author: bckandemir2018
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Mon Jan 24 15:33:34 2022
 
 @author: bckandemir2018
@@ -383,3 +376,4 @@ if __name__ == '__main__':
     
 
     main()
+
