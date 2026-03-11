@@ -1,33 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr  3 20:23:09 2022
-
-@author: bckandemir2018
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 22 10:30:08 2022
-
-@author: bckandemir2018
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 13 22:50:36 2022
-
-@author: bckandemir2018
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 12 17:17:57 2022
-
-@author: bckandemir2018
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Sun Feb 13 01:20:30 2022
 
 @author: bckandemir2018
@@ -479,4 +451,5 @@ print("max_len:",max_len)
 # for i in list1:
 #     for j in i :
 #         textfile.write(format(j)+"\n")
+
 # textfile.close()
