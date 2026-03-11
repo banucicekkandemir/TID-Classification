@@ -1,33 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr  3 20:51:23 2022
-
-@author: bckandemir2018
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 22 16:07:00 2022
-
-@author: bckandemir2018
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 13 23:36:38 2022
-
-@author: bckandemir2018
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 12 18:30:06 2022
-
-@author: bckandemir2018
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Mon Feb 14 14:20:16 2022
 
 @author: bckandemir2018
@@ -409,4 +381,5 @@ def main():
 
 if __name__ == '__main__':
     
+
     main()
